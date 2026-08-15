@@ -3,7 +3,7 @@
 -- By NotGaxia
 
 local TOKEN = "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"
-local REPO_OWNER = "NotGaxia"
+local REPO_OWNER = "Gaxia-XP"
 local REPO_NAME = "gaxia-hub"
 local BRANCH = "main"
 local FILE_PATH = "gaxia-hub-main.lua"
